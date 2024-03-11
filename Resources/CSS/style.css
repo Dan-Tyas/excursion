@@ -29,3 +29,12 @@ body {
 .img--phone {
     margin-top: 30px;
 }
+
+
+/*Footer*/
+
+.footer {
+    font-size: 21px;
+    color: gray;
+    text-align: right;
+}
